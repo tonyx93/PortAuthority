@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory>C:\Users\t59328\Desktop\PortAuthority\|C:\Users\t59328\Desktop\|http://insight/sites/it/network/Dumping Grounds/Tools/|ftp://insight/sites/it/network/Dumping Grounds/Tools/|C:\Users\t59328\Documents\Visual Studio 2012\Projects\</PublishUrlHistory>
+    <InstallUrlHistory>http://insight/sites/it/network/Dumping Grounds/Tools/</InstallUrlHistory>
+    <SupportUrlHistory />
+    <UpdateUrlHistory />
+    <BootstrapperUrlHistory />
+    <ErrorReportUrlHistory />
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+  </PropertyGroup>
+  <PropertyGroup>
+    <EnableSecurityDebugging>false</EnableSecurityDebugging>
+  </PropertyGroup>
+</Project>
