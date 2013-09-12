@@ -82,3 +82,6 @@ C:\Users\t59328\Documents\Visual Studio 2012\PortAuthority\PortAuthority\PortAut
 C:\Users\t59328\Documents\Visual Studio 2012\PortAuthority\PortAuthority\PortAuthority\obj\x86\Release\PortAuthority.TrustInfo.xml
 C:\Users\t59328\Documents\Visual Studio 2012\PortAuthority\PortAuthority\PortAuthority\obj\x86\Release\PortAuthority.exe.manifest
 C:\Users\t59328\Documents\Visual Studio 2012\PortAuthority\PortAuthority\PortAuthority\obj\x86\Release\PortAuthority.application
+C:\Users\Tony Xu\Documents\GitHub\PortAuthority\PortAuthority\bin\Release\PortAuthority.exe.config
+C:\Users\Tony Xu\Documents\GitHub\PortAuthority\PortAuthority\obj\x86\Release\PortAuthority.exe
+C:\Users\Tony Xu\Documents\GitHub\PortAuthority\PortAuthority\obj\x86\Release\PortAuthority.pdb

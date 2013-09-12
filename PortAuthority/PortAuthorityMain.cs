@@ -6,16 +6,15 @@ using System.Data;
 using System.Deployment;
 using System.Drawing;
 using System.Linq;
-using System.Net;
 using System.Reflection;
 using System.Text;
 using System.Windows.Forms;
-using System.Net.NetworkInformation;
-using SharpPcap;
-using PacketDotNet;
 using System.IO;
 using System.Diagnostics;
-using PacketDotNet.Utils;
+using System.Net.NetworkInformation;
+using System.Net;
+using SharpPcap;
+using PacketDotNet;
 
 namespace PortAuthority
 {
